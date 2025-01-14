@@ -1,2 +1,2 @@
 # tilly
-A directory-agnostic terminal text editor wrapper.
+A vi-model text editor in C++.
